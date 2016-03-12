@@ -48,7 +48,7 @@ public class BouncyBall implements ActionListener, MouseListener, KeyListener, I
 		renderer = new Renderer();
 		rand = new Random();
 		
-		ImageIcon i = new ImageIcon("C:/Users/Oyah/workspace/BouncyBall Marmaras/Images/cutmypic.png");
+		ImageIcon i = new ImageIcon("C:/Users/Oyah/Desktop/BouncyBall Marmaras/Images/cutmypic.png");
 		BallPic = i.getImage();
 
 		jframe.add(renderer);
